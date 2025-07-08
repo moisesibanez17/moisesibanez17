@@ -4,9 +4,9 @@
 ```python
 class Moises_Ibañez:
     name = "Moises Antonio Ibañez Herndez"
-    age = 21
+    age = 22
     occupation = "Student"
-    preferred_langs = ["Python", "C++"]
+    preferred_langs = ["Python", "C++", "Java"]
     hobbies = ["Music", "Traveling", "Soccer"]
 ```
 <br>
