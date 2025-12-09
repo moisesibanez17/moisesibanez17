@@ -11,7 +11,9 @@ class Moises_Ibañez:
 ```
 <br>
 
-<p align="center"><img alt="Moises's GitHub Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=moisesibanez17&show_icons=true&theme=nord"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesibanez17&layout=compact&theme=nord"></p>
+<p align="center">
+    <img alt="GitHub Streak" height=130 src="https://github-readme-streak-stats.demolab.com/?user=moisesibanez17&theme=nord">
+</p>
 
 ## More about me
 - 🇲🇽 Mexican
