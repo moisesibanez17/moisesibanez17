@@ -21,13 +21,13 @@ class Moises_Ibañez:
 - 🔒 Cybersecurity enthusiast
 
 ## Certifications
-- [Curso de Desarrollo de App Moviles](https://skillshop.exceedlms.com/student/collection/798207-apps?locale=es)
-- [CCNA: Introduction to Networks](https://www.credly.com/badges/69976cbe-b703-4aa2-adea-77a74ebe9d5d/linked_in_profile)
-
-## My projects
-- [Preconfiguración de Windows 11](https://github.com/moisesibanez17/Instalacion-y-preconfiguracon-de-Windows-11): Powershell script that installs applications such as Chrome, winrar, adobe reader, java, teamviewer and anydesk, in addition to creating a generic user and turning it into an administrator, and eliminating unnecessary apps 
-- [QuickDrop](https://github.com/moisesibanez17/QuickDrop): Efficient route optimization algorithm for a local delivery service.
-- [TastyTrove](https://github.com/moisesibanez17/TastyTrove): Digital recipe book system
+- Mobile app development course
+- CCNA: Introduction to Networks
+- CNNA :Switching, routing and wireless essentials
+- CNNA :Enterprise Networking, Security, and Automation 
+- Full-Stack Web Development with React
+- RESTful API with Flask and Python
+- APIs and Web Services
 
 ## Where to find me
 
