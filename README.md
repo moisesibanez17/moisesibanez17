@@ -11,7 +11,7 @@ class Moises_Ibañez:
 ```
 <br>
 
-[![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesibanez17)](https://github.com/moisesibanez17/github-readme-stats)
+[![Moises's GitHub stats](https://githubstats-eight-virid.vercel.app/api?username=moisesibanez17)](https://github.com/moisesibanez17/github-readme-stats)
 
 ## More about me
 - 🇲🇽 Mexican
