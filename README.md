@@ -11,9 +11,7 @@ class Moises_Ibañez:
 ```
 <br>
 
-<p align="center">
-    <img alt="GitHub Streak" height=130 src="https://github-readme-streak-stats.demolab.com/?user=moisesibanez17&theme=nord">
-</p>
+[![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesibanez17)](https://github.com/moisesibanez17/github-readme-stats)
 
 ## More about me
 - 🇲🇽 Mexican
