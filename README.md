@@ -11,7 +11,7 @@ class Moises_Ibañez:
 ```
 <br>
 
-<p align="center"><img alt="Lord Friky's GitHub Stats" height=170 src="https://githubstats-eight-virid.vercel.app/api?username=moisesibanez17&show_icons=true&theme=nord"> <img alt="Top Langs"height=170 src="https://githubstats-eight-virid.vercel.app/api/top-langs/?username=moisesibanez17&show_icons=true&theme=nord"></p>
+<p align="center"><img alt="Moisesibanez17's GitHub Stat" height=170 src="https://githubstats-erh3ku8y9-moisesibanez17s-projects.vercel.app/api?username=moisesibanez17&show_icons=true&theme=nord"> <img alt="Top Langs"height=170 src="https://githubstats-erh3ku8y9-moisesibanez17s-projects.vercel.app/api/top-langs/?username=moisesibanez17&show_icons=true&theme=nord"></p>
 
 ## More about me
 - 🇲🇽 Mexican
