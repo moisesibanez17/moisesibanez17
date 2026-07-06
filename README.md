@@ -6,7 +6,7 @@ class Moises_Ibañez:
     name = "Moises Antonio Ibañez Herndez"
     age = 23
     occupation = "Student"
-    preferred_langs = ["Python", "C++", "Java"]
+    preferred_langs = ["Python", "JavaScript", "Java"]
     hobbies = ["Music", "Traveling", "Soccer"]
 ```
 <br>
